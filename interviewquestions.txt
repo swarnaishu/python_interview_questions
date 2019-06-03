@@ -1,0 +1,52 @@
+Q-1:What is the purpose of PYTHONPATH environment variable?
+Q-2:Whenever Python exits, why isn�t all the memory de-allocated?
+Q-3:Write a one-liner that will count the number of capital letters in a file. Your code should work even if the file is too big to fit in memory.
+Q-4:What are negative indexes and why are they used?
+Q-5:What is the difference between range & xrange?
+Q-6:What is pickling and unpickling?
+Q-7:Name the File-related modules in Python?
+Q-8:What is pep 8?
+Q-9:What is type conversion in Python?
+Q-10:What is __init__?
+Q-11:What is self in Python?
+Q-12:What does [::-1} do?
+Q-13:How will you convert a string to all lowercase?
+Q-14:How to add values to a python array?
+Q-15:Does Python have OOps concepts?
+Q-16:What are Python libraries? Name a few of them.
+Q-17:How to import modules in python?
+Q-18:How do you do data abstraction in Python?
+Q-19:Write a sorting algorithm for a numerical dataset in Python.
+Q-20:Write a Python program to read a random line from a file.
+Q-21:What is the statement that can be used in python if the program requires no action but requires it syntactically?
+Q-22:What�s the process to get the home directory using �~� in Python?
+Q-23:What are the Built-In Types available in Python?
+Q-24:How to find bugs or perform Static Analysis in a Python application?
+Q-25:What is the principal difference between a list and the tuple?
+Q-26:What are the principal differences between the Lambda and Def?
+Q-27:What are the optional statements possible inside a Try-Except Block in Python?
+Q-28:What is Slicing in Python?
+Q-29:Write a Python program to count the number of lines in a text file.
+Q-30:What is a function call or a callable object in Python?
+Q-31:What does the *Args do in Python?
+Q-32:What does the **Kwargs do in Python?
+Q-33:What is Rstrip() in Python?
+Q-34:What makes the CPython different from Python?
+Q-35:What is GIL in Python language?
+Q-36:Is Python list a linked list?
+Q-37:What are Python Iterators?
+Q-38:What are Python Generators?
+Q-39:What are Decorators in Python?
+Q-40:How do you write a conditional expression in Python?
+Q-41:What is the purpose of docstrings in Python?
+Q-42:What is NumPy and how is it better than a list in Python?
+Q-43:How to get indices of N maximum values in a NumPy array?
+Q-44:Is Django better than Flask?
+Q-45:Explain what Flask is?
+Q-46:Explain the use of session in Django framework?
+Q-47:How To Save An Image Locally Using Python Whose URL Address I Already Know?
+Q-48:What is map function in Python?
+Q-49:How to get indices of N maximum values in a NumPy array?
+Q-50:How do you calculate percentiles with Python/ NumPy?
+
+
