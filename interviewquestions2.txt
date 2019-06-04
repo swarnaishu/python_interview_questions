@@ -1,0 +1,63 @@
+Q-1:How is Python executed ?
+Q-2:What is the difference between .py and .pyc files ?
+Q-3:How are Phon blocks defined ?
+Q-4:Name the four main types of namespaces in Python ?
+Q-5:When would you use triple quotes as a delimiter ?
+Q-6:What  Are The Data Types Supports in Python Language?
+Q-7:How to use GUI that comes with Python to test your code?
+Q-8:How does the Python version numbering scheme work ?
+Q-9:How do I find undefined g++ symbols __builtin_new or __pure_virtual?
+Q-10:What Are The Implementation In Python Program?
+Q-11:What is namespace in Python?
+Q-12:How Python is interpreted?
+Q-13:How memory is managed in Python?
+Q-14:What are the tools that help to find bugs or perform static analysis?
+Q-15:How are arguments passed by value or by reference?
+Q-16:What is the basic difference between Python version 2 and Python version 3?
+Q-17:Write a function in python which detects whether the given two strings are anagrams or not.
+Q-18:What is unittest in Python?
+Q-19:What is docstring in Python?
+Q-20:What is the purpose of ** operator?
+Q-21:Mention what are the rules for local and global variables in Python?
+Q-22:What is the purpose break statement in python?
+Q-23:How can you pick a random item from a list or tuple?
+Q-24:How will you randomizes the items of a list in place?
+Q-25:How will you replaces all occurrences of old substring in string with new string?
+Q-26:What is the difference between del() and remove() methods of list?
+Q-27:How can you share global variables across modules?
+Q-28:Explain how can you make a Python Script executable on Unix?
+Q-29:Explain how can you generate random numbers in Python?
+Q-30:Mention what is Flask-WTF and what are their features?
+Q-31:Explain what is Dogpile effect? How can you prevent this effect?
+Q-32:What are Python's dictionaries?
+Q-33:How will you convert a string to a frozen set in python?
+Q-34:How will you convert an integer to an unicode character in python?
+Q-35:Write a function to give the sum of all the numbers in list?
+Sample list - (100, 200, 300, 400, 0, 500)
+Expected output - 1500
+Q-36:Use a for loop and illustrate how you would define and print the characters in a string out, one per line ?
+Q-37:Write a program to calculate number of upper case letters and number of lower case letters?
+Test on String: ''Hi how Are You''
+Q-38:Which are mutable, and which are immutable in Python?
+Q-39:What’s the difference between a List and a Dictionary?
+Q-40:What packages in the standard library, useful for Data Science work, do you know?
+Q-41:What is Anonymous Function or Lambda Function?
+Q-42:Given the string “I LoveQPython” use a for loop and illustrate printing each character tip to, but not including the Q ?
+Q-43:What are the Runtime Errors?
+Q-44:What is Abnormal Termination?
+Q-45:What is Garbage Collection?
+Q-46:How to execute DML Commands Through Python Programs?
+Q-47:What is scheduling?
+Q-48:What is Threads Life Cycle?
+Q-49:What is OS Module?
+Q-50:What Are Applications of Python?
+
+
+
+
+
+
+
+
+
+
